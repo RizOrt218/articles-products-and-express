@@ -49,18 +49,24 @@ router.use(function(req, res, next) {
 // end middleware
 router.route('/')
   .get(function(req, res) {
-    res.render('products/index', {
-      products: Products.all()
+    Products.all()
+    .then(function(data){
+      res.render('products/index', {
+      products: data
+    })
+    .catch(function(err){
+      res.send(err);
+    });
     });
   })
 
-  .post(function (req, res) {
-    Products.add(req.body, function(err) {
-      if(err) return res.send( {success: false, message: err.message} );
+  // .post(function (req, res) {
+  //   Products.add(req.body, function(err) {
+  //     if(err) return res.send( {success: false, message: err.message} );
 
-      return res.redirect('/products/');
-    });
-  })
+  //     return res.redirect('/products/');
+  //   });
+  // })
 ;
 
 router.route('/new')

@@ -1,4 +1,5 @@
 module.exports = (function(){
+  var dbConnect     = require('../db-connect.js');
   var articleList = [];
 
 
