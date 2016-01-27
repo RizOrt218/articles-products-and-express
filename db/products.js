@@ -21,6 +21,61 @@ module.exports  = (function(){
     });
   }
 
+  function _add (req, callback) { //aka insert
+    var inventory = req.inventory;
+    var name = req.name;
+    var price = req.price;
+
+    return new Promise(function(data, reject) {
+      db.one('insert into products_table(id, inventory, product_name, price) values(default, $1, $2, $3) returning id', [inventory, name, price])
+        .then(data)
+        .catch(function (reject) {
+            // error;
+        });
+    });
+  }
+// CREATE / insert
+  // db.one('insert into products_table(id, inventory, product_name, price) values(default, $1, $2, $3) returning id',
+  //   [8357, 'Pumpkin Pie', '500'])
+  //   .then(function (data) {
+  //       console.log(data.id); // print new user id;
+  //   })
+  //   .catch(function (error) {
+  //       console.log("ERROR:", error); // print error;
+  //   });
+
+
+
+  // function _editById (id, productOptions, callback) {
+  //   var updateP = null;
+  //   for ( var i = 0; i < productList.length; i++) {
+  //     if( productList[i].id === parseInt(id) ) {
+  //       updateP = productList[i];
+  //       for(var key in productOptions) {
+  //         updateP[key] = productOptions[key];
+  //       }
+  //         return callback(null);
+  //     } else {
+  //       callback(new Error("Can't find ID"));
+  //     }
+  //   }
+  // }
+
+
+  // function _deleteById (id, callback) {
+  //   for ( var i = 0; i < productList.length; i++) {
+  //     if( productList[i].id === parseInt(id) ) {
+  //       productList.splice(i,1);
+  //       return callback(null);
+  //     } else {
+  //       callback(new Error("Can't find ID"));
+  //     }
+  //   }
+  // }
+
+
+  // READ / alter
+
   function _add (req) { //aka insert
     var inventory = req.inventory;
     var name = req.name;
@@ -61,6 +116,9 @@ module.exports  = (function(){
     add: _add,
     getById: _getById,
     editById: _editById,
-    deleteById: _deleteById
+    deleteById: _deleteById,
+    getById: _getById
+    // editById: _editById,
+    // deleteById: _deleteById
   };
 }());

@@ -62,6 +62,7 @@ router.route('/')
   .post(function (req, res) {
     Products.add(req.body)
     .then(function(data) {
+      console.log(data);
       res.redirect('/products/');
     })
     .catch(function(err) {
@@ -69,8 +70,6 @@ router.route('/')
     });
   });
 
-//when client clicks on 'new' btn
-//this renders 'products/new' page
 router.route('/new')
   .get(function(req, res) {
     res.render('products/new');
@@ -107,16 +106,15 @@ router.route('/:id')
   .get(function(req, res) {
     Products.getById(req.params.id)
     .then(function(data){
-        console.log(data);
+      console.log(data, 'hello');
       res.render('products/single', {
-        product: data
+        item: data
       });
     })
     .catch(function(err) {
       res.send(err);
     });
   })
-
   .put(function (req, res) {
     Products.editById( req.params.id, req.body )
       .then(function(data) {
