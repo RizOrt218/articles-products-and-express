@@ -1,0 +1,879 @@
+METHOD : GET
+URL : /products/
+TIMESTAMP : Tue Jan 26 2016 09:15:35 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : 8dfd7565-3676-cb00-48fb-35b318fe3fea
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products
+TIMESTAMP : Tue Jan 26 2016 09:15:54 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : f432dc4c-b3d6-068f-1cec-f73605286b33
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products
+TIMESTAMP : Tue Jan 26 2016 09:16:02 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : 124226f2-ed02-6d92-41f0-134537ca3a19
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products
+TIMESTAMP : Tue Jan 26 2016 09:16:03 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : ae0a8e1e-74c5-31bf-ba32-bb2b61b32068
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products
+TIMESTAMP : Tue Jan 26 2016 09:16:32 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : 4476b20f-af47-eb7e-d45c-a851b33a0d3a
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products
+TIMESTAMP : Tue Jan 26 2016 09:16:48 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : 73ca0495-d5e1-6df0-17f7-f4618e4542e1
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products
+TIMESTAMP : Tue Jan 26 2016 09:18:21 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : 5a329b64-35c8-f6b0-2e6b-77d89b95b8fe
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products
+TIMESTAMP : Tue Jan 26 2016 09:18:43 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : 58c522ad-4cc2-10e6-3bf2-f2a29e19077e
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products
+TIMESTAMP : Tue Jan 26 2016 09:18:57 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : 80ced040-1eef-ddfd-9938-63220ec3c510
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products
+TIMESTAMP : Tue Jan 26 2016 09:19:24 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : 27aabe79-f8e7-51a8-4aaa-a783e0d4c12d
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products
+TIMESTAMP : Tue Jan 26 2016 09:19:40 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : e1594c40-817f-738c-11c8-73ba9ad08536
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products
+TIMESTAMP : Tue Jan 26 2016 09:19:54 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : 94566e22-c76b-1046-58f1-2208e7e81f0c
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products
+TIMESTAMP : Tue Jan 26 2016 09:20:51 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : 6aedd02b-51e4-c13d-ccbd-dc5fe325f486
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products
+TIMESTAMP : Tue Jan 26 2016 09:34:00 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : 579accf6-6dcd-7479-4033-a7f53aefdae7
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/
+TIMESTAMP : Tue Jan 26 2016 09:34:30 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : 6485b49e-eb8b-696a-8859-093e1227794d
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/
+TIMESTAMP : Tue Jan 26 2016 09:35:51 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : ffe9da53-c811-d95e-516e-4d11d9b51ef9
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/
+TIMESTAMP : Tue Jan 26 2016 09:36:54 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : cf782266-e4e8-d526-394d-e7ba7daf1af2
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/1
+TIMESTAMP : Tue Jan 26 2016 09:37:35 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : e7a74847-b83d-ec18-34ff-c0866c289e27
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/1
+TIMESTAMP : Tue Jan 26 2016 09:40:38 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : 6fca85fd-df77-b3fe-089e-1969a37d74b3
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/1
+TIMESTAMP : Tue Jan 26 2016 09:41:32 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : c9dd5cfe-a0ad-71eb-612e-751bce564d2b
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/1
+TIMESTAMP : Tue Jan 26 2016 09:42:03 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : d0adfc12-7524-72d1-9c08-5b06eb819078
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/1
+TIMESTAMP : Tue Jan 26 2016 09:43:18 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : 7294c8e3-830f-a1b6-6442-4cd976d3d5ce
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/1
+TIMESTAMP : Tue Jan 26 2016 09:43:46 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : 0971ffb9-7a16-bfce-e01a-9bf0dec74e68
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/1
+TIMESTAMP : Tue Jan 26 2016 09:44:18 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : f1cfb7c4-d0be-d832-cae9-219837234c48
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/1
+TIMESTAMP : Tue Jan 26 2016 09:45:11 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : 8de8ad1a-a436-82d3-15d7-5060cf423078
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/1
+TIMESTAMP : Tue Jan 26 2016 09:45:40 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : 6c92b2ff-c170-ef5e-c39b-b074bfa87abb
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/1
+TIMESTAMP : Tue Jan 26 2016 09:46:27 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : 45a53898-f479-318f-a8b4-c2fa51d59d2a
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/1
+TIMESTAMP : Tue Jan 26 2016 09:48:56 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : 0cc14e90-2562-f1b9-7dc6-7194683290bb
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/1
+TIMESTAMP : Tue Jan 26 2016 09:50:35 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : 18682a8d-dd4d-30ca-6fae-9e30375949c3
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/1
+TIMESTAMP : Tue Jan 26 2016 09:51:53 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : 01ae4fb7-4b18-ea3e-af4c-5b192af85fa0
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/1
+TIMESTAMP : Tue Jan 26 2016 09:52:08 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : df978291-fdd1-59b9-6952-c5eb69f32edd
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/1
+TIMESTAMP : Tue Jan 26 2016 09:52:22 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : 4f5db73a-acc1-3356-c27b-40f9367f3672
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/1
+TIMESTAMP : Tue Jan 26 2016 09:52:45 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : d7f769cf-4c5c-14a4-cb7a-d01978b86850
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/1
+TIMESTAMP : Tue Jan 26 2016 09:53:50 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : 97227427-bc56-90e8-e780-a0ddcca67f95
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/1
+TIMESTAMP : Tue Jan 26 2016 09:54:33 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : 000008d7-9662-6c8a-88ab-99568c8d1cc5
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/1
+TIMESTAMP : Tue Jan 26 2016 09:55:01 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : add38fbf-2de4-3784-ff58-d7156f45e8d2
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/1
+TIMESTAMP : Tue Jan 26 2016 09:55:19 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : 173863d6-7057-2ad9-de26-e41d2f93e1ec
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/1
+TIMESTAMP : Tue Jan 26 2016 09:55:35 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : edb32521-3b93-d561-4611-fc02e8224ff0
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/1
+TIMESTAMP : Tue Jan 26 2016 09:58:27 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : 73548662-a9d6-a2ec-b821-510000a84e79
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/1
+TIMESTAMP : Tue Jan 26 2016 09:59:09 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : 7c2745b7-20ca-65fa-3671-669cce022d16
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/1
+TIMESTAMP : Tue Jan 26 2016 09:59:34 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : db89dbe0-f6a5-5563-0665-74e493ba7614
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products
+TIMESTAMP : Tue Jan 26 2016 10:00:22 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/1
+TIMESTAMP : Tue Jan 26 2016 10:00:24 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/1
+TIMESTAMP : Tue Jan 26 2016 10:01:32 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/1
+TIMESTAMP : Tue Jan 26 2016 10:01:45 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : 73df07cc-4189-a103-1351-9f1a7e7c6d0d
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/1
+TIMESTAMP : Tue Jan 26 2016 10:03:06 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : 767e7c75-98df-cc0f-f280-6b23ddc12c67
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/1
+TIMESTAMP : Tue Jan 26 2016 10:03:37 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : 5a093666-5c99-aeb5-a93f-2322932c4e92
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/1
+TIMESTAMP : Tue Jan 26 2016 10:05:31 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : c510257a-aca3-ca59-77bc-1273805b0e2d
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/1
+TIMESTAMP : Tue Jan 26 2016 10:05:53 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : 9ff2ef64-60f8-bc6c-9915-b8dcc0a517c1
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products
+TIMESTAMP : Tue Jan 26 2016 10:06:20 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : 57d392dd-a11f-ddb9-07d1-bece52aa358a
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/id
+TIMESTAMP : Tue Jan 26 2016 10:06:25 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : fb95f91b-b0d0-1de8-7a55-d6c0e827a5d6
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/1
+TIMESTAMP : Tue Jan 26 2016 10:06:28 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : 5ed0b175-585b-09ec-e3b7-e55cf42d786f
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/1
+TIMESTAMP : Tue Jan 26 2016 10:06:34 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : b2473d15-2e12-c88a-f3f8-dbbbcf783203
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/1
+TIMESTAMP : Tue Jan 26 2016 10:09:13 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : 19faa8ca-c9f1-d9fd-1044-d1314d87738f
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/1
+TIMESTAMP : Tue Jan 26 2016 10:09:38 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : 0abc361f-be46-f4f7-007a-d3d129ef98f8
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/3
+TIMESTAMP : Tue Jan 26 2016 10:09:42 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : 3d653bd5-046a-f202-8a12-8250045c2b62
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : POST
+URL : /products/3
+TIMESTAMP : Tue Jan 26 2016 10:23:55 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  content-length : 0
+  cache-control : no-cache
+  origin : chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : fdfab90d-5775-c52f-ac41-002d90ba0bf8
+  accept : */*
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : POST
+URL : /products/
+TIMESTAMP : Tue Jan 26 2016 10:24:13 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  content-length : 0
+  cache-control : no-cache
+  origin : chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : a954c234-d8ed-3943-2878-43511df08fa5
+  accept : */*
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : POST
+URL : /products/
+TIMESTAMP : Tue Jan 26 2016 10:41:25 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  content-length : 338
+  cache-control : no-cache
+  origin : chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+  content-type : multipart/form-data; boundary=----WebKitFormBoundarygAzLMNX4Pqsav9NK
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : 199dfcfd-e9c1-7c87-ac51-5310404865ca
+  accept : */*
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : POST
+URL : /products/
+TIMESTAMP : Tue Jan 26 2016 10:41:58 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  content-length : 338
+  cache-control : no-cache
+  origin : chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+  content-type : multipart/form-data; boundary=----WebKitFormBoundarydSImPXiXaQ8SauXA
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : 2d49a6d5-f9fb-39bf-4ed8-00b3549bbccb
+  accept : */*
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : POST
+URL : /products/
+TIMESTAMP : Tue Jan 26 2016 10:42:58 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  content-length : 38
+  cache-control : no-cache
+  origin : chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+  content-type : application/x-www-form-urlencoded
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : a3676c1b-028e-0ac2-ac10-51d596dc110b
+  accept : */*
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/
+TIMESTAMP : Tue Jan 26 2016 10:42:58 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3000
+  connection : keep-alive
+  cache-control : no-cache
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+  postman-token : a3676c1b-028e-0ac2-ac10-51d596dc110b
+  accept : */*
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""

@@ -53,21 +53,23 @@ router.route('/')
     .then(function(data){
       res.render('products/index', {
       products: data
-    })
+    });
+   })
     .catch(function(err){
       res.send(err);
     });
-    });
   })
+  .post(function (req, res) {
+    Products.add(req.body)
+    .then(function(data) {
+      console.log(data);
+      res.redirect('/products/');
+    })
+    .catch(function(err) {
+      res.send(err);
+    });
+  });
 
-  // .post(function (req, res) {
-  //   Products.add(req.body, function(err) {
-  //     if(err) return res.send( {success: false, message: err.message} );
-
-  //     return res.redirect('/products/');
-  //   });
-  // })
-;
 
 router.route('/new')
   .get(function(req, res) {
@@ -84,10 +86,18 @@ router.route('/:id/edit')
 
 router.route('/:id')
   .get(function(req, res) {
-    res.render('products/single', {
-      item: Products.getById( req.params.id )
+    Products.getById(req.params.id)
+    .then(function(data){
+      console.log(data, 'hello');
+      res.render('products/single', {
+        item: data
+      });
+    })
+    .catch(function(err) {
+      res.send(err);
     });
   })
+
   .put(function (req, res) {
     Products.editById( req.params.id, req.body, function(err) {
       if(err) return res.send({success: false, message: err.message});
