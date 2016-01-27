@@ -1,40 +1,47 @@
 module.exports = (function(){
-  var dbConnect     = require('../db-connect.js');
-  var articleList = [];
-
+  var db       = require('../db-connect.js');
 
   function _all () {
-    return articleList;
+    return new Promise(function(resolve, reject) {
+      db.query("select articles_table.*, authors_table.author " +
+        "from articles_table inner join authors_table " +
+        "on articles_table.fk_author_id = authors_table.id", true)
+        .then(function(data){
+          return resolve(data);
+        })
+        .catch(reject);
+    });
   }
 
   function _getByTitle (title) {
-    for(var i = 0; i < articleList.length; i++) {
-      if(articleList[i].title === title){
-        return articleList[i];
-      }
-    }
+    return new Promise(function(resolve, reject) {
+      db.query('select articles_table.*, authors_table.author ' +
+        'from articles_table inner join authors_table ' +
+        'on articles_table.fk_author_id = authors_table.id ' +
+        'where articles_table.title = $1', title)
+      .then(function(data) {
+        return resolve(data);
+      })
+      .catch(function (reject) {
+        console.log(reject);
+      });
+    });
   }
-  function _add (req, callback) {
 
+  function _add (req) {
     var title = req.title;
     var author = req.author;
     var urlTitle = title.replace(/ /g, "%20");
 
-    for( var i = 0; i < articleList.length; i++ ) {
-      if( articleList[i].title === title ) {
-        var err = new Error("Could not create new article");
-        return callback(err);
-      }
-    }
+    return new Promise(function(resolve, reject) {
 
-    var aObj = {
-      'title' : title,
-      'author' : author,
-      'urlTitle' : urlTitle
-    };
-
-    articleList.push(aObj);
-    return callback(null);
+      db.query('insert into articles_table(id, title, urlTitle) '+
+        'values(default, $1, $2) returning id, title, urlTitle', [title, urlTitle])
+        .then(data)
+        .catch(function(reject) {
+          console.log(reject);
+        });
+    });
   }
 
   function _editByTitle (title, articleOptions, callback) {

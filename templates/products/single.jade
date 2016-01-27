@@ -1,9 +1,9 @@
 extends ./../layout
 
 block content
-  h1 #{item.id}: #{item.name}
-  p Inventory: ##{item.inventory}
-  p Price: #{item.price}
+  h1 #{product[0].id}: #{product[0].product_name}
+  p Inventory: ##{product[0].inventory}
+  p Price: #{product[0].price}
   h2
     form(type="submit", action="/products/")
       button(type="submit", value="submit") Product List

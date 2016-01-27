@@ -49,19 +49,26 @@ router.use(function(req, res, next) {
 
 router.route('/')
   .get(function(req, res) {
-    res.render('articles/index', {
-      art: Articles.all()
+    Articles.all()
+    .then(function(data) {
+      res.render('articles/index', {
+        articles: data
+      });
+    })
+    .catch(function(err){
+      res.send(err);
     });
   })
 
   .post(function (req, res) {
-    Articles.add(req.body, function(err) {
-      if(err) return res.send( {success: false, message: err.message} );
-
-      return res.redirect('/articles/');
-    });
-  })
-;
+    Articles.add(req.body)
+      .then(function(data) {
+        res.redirect('/articles/');
+      })
+      .catch(function(err) {
+        res.send(err);
+      });
+  });
 
 router.route('/new')
   .get(function(req,res) {
@@ -77,8 +84,14 @@ router.route('/:title/edit')
 
 router.route('/:title')
   .get(function(req, res) {
-    res.render('articles/single', {
-      articles: Articles.getByTitle( req.params.title)
+    Articles.getByTitle(req.params.title)
+    .then(function(data) {
+      res.render('articles/single', {
+        article:data[0]
+      });
+    })
+    .catch(function(err) {
+      res.send(err);
     });
   })
 

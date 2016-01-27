@@ -2,13 +2,12 @@ extends ./../layout
 
 block content
   ul
-    each item in products
+    each data in products
       li Product Name:&nbsp
-        a(href="/products/#{item.id}") #{item.name}&nbsp
-        form(type="submit", action="/products/#{item.id}/edit")
-          input(type="hidden", name="_method", value="PUT")
+        a(href="/products/#{data.id}") #{data.product_name}&nbsp
+        form(method="GET", action="/products/#{data.id}/edit")
           button(type="submit", value="submit") edit
-        form(name="delete-products", method="POST", action="/products/#{item.id}")
+        form(name="delete-products", method="POST", action="/products/#{data.id}")
           input(type="hidden", name="_method", value="DELETE")
           button(type="submit", value="submit") delete
 

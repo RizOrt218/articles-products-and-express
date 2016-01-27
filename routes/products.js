@@ -53,58 +53,94 @@ router.route('/')
     .then(function(data){
       res.render('products/index', {
       products: data
-    })
+    });
+   })
     .catch(function(err){
       res.send(err);
     });
-    });
   })
+  .post(function (req, res) {
+    Products.add(req.body)
+    .then(function(data) {
+      res.redirect('/products/');
+    })
+    .catch(function(err) {
+      res.send(err);
+    });
+  });
 
-  // .post(function (req, res) {
-  //   Products.add(req.body, function(err) {
-  //     if(err) return res.send( {success: false, message: err.message} );
-
-  //     return res.redirect('/products/');
-  //   });
-  // })
-;
-
+//when client clicks on 'new' btn
+//this renders 'products/new' page
 router.route('/new')
   .get(function(req, res) {
     res.render('products/new');
   });
 
+//when client clicks on edit btn
+//this renders page where it gives you option
+//to input different values of the same id
 router.route('/:id/edit')
   .get(function(req, res) {
-    res.render('products/edit', {
-      item: Products.getById( req.params.id )
+    Products.getById(req.params.id)
+    .then(function(data) {
+      console.log(data);
+      res.render('products/edit', {
+        product:data[0]
+      });
+    })
+    .catch(function(err) {
+      res.send(err);
     });
+    // Products.editById(req.params.id)
+    // .then(function(data) {
+      // res.render('products/edit', {
+      //   item: data
+      // });
+    // })
+    // .catch(function(err) {
+    //   res.send(err);
+    // });
   });
 
 
 router.route('/:id')
   .get(function(req, res) {
-    res.render('products/single', {
-      item: Products.getById( req.params.id )
+    Products.getById(req.params.id)
+    .then(function(data){
+        console.log(data);
+      res.render('products/single', {
+        product: data
+      });
+    })
+    .catch(function(err) {
+      res.send(err);
     });
   })
+
   .put(function (req, res) {
-    Products.editById( req.params.id, req.body, function(err) {
-      if(err) return res.send({success: false, message: err.message});
-
-      return res.redirect('/products/' + req.params.id);
-
-    });
+    Products.editById( req.params.id, req.body )
+      .then(function(data) {
+        console.log(data, 'hi');
+        // res.get('/products/');
+        res.render('products/single', {
+          product: data
+        });
+      })
+      .catch(function(err) {
+      console.log('sumting wrong');
+        res.send(err);
+      });
   })
-  .delete(function (req, res) {
-    Products.deleteById( req.params.id, function(err) {
-      if(err) return res.send({success: false, message: err.message});
 
-      return res.redirect('/products/');
-
-    });
+.delete(function(req,res) {
+  Products.deleteById( req.params.id )
+  .then(function(){
+    return res.redirect('/products');
   })
-  ;
-
+  .catch(function(err) {
+    res.send(err);
+  });
+});
 
 module.exports = router;
+

@@ -2,13 +2,14 @@ extends ./../layout
 
 block content
   ul
-    each articles in art
+    each data in articles
       li Article Title:&nbsp
-        a(href="/articles/#{articles.title}") #{articles.title}&nbsp
-        form(type="submit", action="/articles/#{articles.title}/edit")
+        a(href="/articles/#{data.title}") #{data.title}&nbsp
+        p by #{data.author}
+        form(type="submit", action="/articles/#{data.title}/edit")
           input(type="hidden", name="_method", value="PUT")
           button(type="submit", value="submit") edit
-        form(name="delete-articles", method="POST", action="/articles/#{articles.title}")
+        form(name="delete-articles", method="POST", action="/articles/#{data.title}")
           input(type="hidden", name="_method", value="DELETE")
           button(type="submit", value="submit") delete
 
