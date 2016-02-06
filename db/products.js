@@ -76,19 +76,19 @@ module.exports  = (function(){
 
   // READ / alter
 
-  function _add (req) { //aka insert
-    var inventory = req.inventory;
-    var name = req.name;
-    var price = req.price;
+  // function _add (req) { //aka insert
+  //   var inventory = req.inventory;
+  //   var name = req.name;
+  //   var price = req.price;
 
-    return new Promise(function(data, reject) {
-      db.one('insert into products_table(id, inventory, product_name, price) values(default, $1, $2, $3) returning id', [inventory, name, price])
-        .then(data)
-        .catch(function (reject) {
-            // error;
-        });
-    });
-  }
+  //   return new Promise(function(data, reject) {
+  //     db.one('insert into products_table(id, inventory, product_name, price) values(default, $1, $2, $3) returning id', [inventory, name, price])
+  //       .then(data)
+  //       .catch(function (reject) {
+  //           // error;
+  //       });
+  //   });
+  // }
 
   function _editById (id, productOptions) {
     return new Promise(function(resolve, reject) {
@@ -116,8 +116,7 @@ module.exports  = (function(){
     add: _add,
     getById: _getById,
     editById: _editById,
-    deleteById: _deleteById,
-    getById: _getById
+    deleteById: _deleteById
     // editById: _editById,
     // deleteById: _deleteById
   };
