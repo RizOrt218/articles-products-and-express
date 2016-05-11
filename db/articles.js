@@ -1,74 +1,47 @@
 module.exports = (function(){
-  var db       = require('../db-connect.js');
+  // var db       = require('../db-connect.js');
+  var db = require('./mongo');
+  var Mongoose = require('mongoose');
+
+  var articlesSchema = Mongoose.Schema ({
+    title : String,
+    author: String
+  });
+
+  var ArticlesMod = Mongoose.model('Articles', articlesSchema);
+
 
   function _all () {
-    return new Promise(function(resolve, reject) {
-      db.query("select articles_table.*, authors_table.author " +
-        "from articles_table inner join authors_table " +
-        "on articles_table.fk_author_id = authors_table.id", true)
-        .then(function(data){
-          return resolve(data);
-        })
-        .catch(reject);
-    });
+    return ArticlesMod.find();
   }
 
-  function _getByTitle (title) {
-    return new Promise(function(resolve, reject) {
-      db.query('select articles_table.*, authors_table.author ' +
-        'from articles_table inner join authors_table ' +
-        'on articles_table.fk_author_id = authors_table.id ' +
-        'where articles_table.title = $1', title)
-      .then(function(data) {
-        return resolve(data);
-      })
-      .catch(function (reject) {
-        console.log(reject);
-      });
-    });
+  function _getByTitle (id) {
+    // console.log("title", title);
+    // var result = ArticlesMod.find( {title : title} );
+
+    console.log("DBDBDBDBDB", id);
+    return ArticlesMod.find( {_id : id} );
   }
 
   function _add (req) {
-    var title = req.title;
-    var author = req.author;
-    var urlTitle = title.replace(/ /g, "%20");
+    var title    = req.title;
+    var author   = req.author;
 
-    return new Promise(function(resolve, reject) {
-
-      db.query('insert into articles_table(id, title, urlTitle) '+
-        'values(default, $1, $2) returning id, title, urlTitle', [title, urlTitle])
-        .then(data)
-        .catch(function(reject) {
-          console.log(reject);
-        });
-    });
+      // console.log("consoleLogging", req);
+    return new ArticlesMod({
+      title   : title,
+      author  : author,
+    }).save();
   }
 
-  function _editByTitle (title, articleOptions, callback) {
-    var updateA = null;
-    for ( var i = 0; i < articleList.length; i++) {
-      if( articleList[i].title === title ) {
-        updateA = articleList[i];
-        for(var key in articleOptions) {
-          updateA[key] = articleOptions[key];
-        }
-          return callback(null);
-      } else {
-        callback(new Error("Can't find title"));
-      }
-    }
+  function _editByTitle (title, articleOptions) {
+    return ArticlesMod.findOneAndUpdate({ title : title },
+    { $set : articleOptions }, { new : true });
   }
 
 
-  function _deleteByTitle (title, callback) {
-    for ( var i = 0; i < articleList.length; i++) {
-      if( articleList[i].title === title ) {
-        articleList.splice(i,1);
-        return callback(null);
-      } else {
-        callback(new Error("Can't find title"));
-      }
-    }
+  function _deleteByTitle (title) {
+    return ArticlesMod.find({ title: title}).remove().exec();
   }
 
   return {

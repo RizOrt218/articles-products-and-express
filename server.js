@@ -5,6 +5,8 @@ var articles       = require('./routes/articles.js');
 var dbConnect      = require('./db-connect.js');
 var methodOverride = require('method-override');
 var bodyParser     = require('body-parser');
+var Mongoose       = require('./db/mongo');
+
 
 server.use(bodyParser.urlencoded({ extended: true }));
 
@@ -23,7 +25,7 @@ server.use(methodOverride(function(req, res){
 server.use('/products', products);
 server.use('/articles', articles);
 
-var app = server.listen(3000, function(){
+var app = server.listen(3330, function(){
   var host = app.address().address;
   var port = app.address().port;
   console.log('server online');

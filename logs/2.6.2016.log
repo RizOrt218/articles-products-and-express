@@ -1,0 +1,1319 @@
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Sat Feb 06 2016 00:00:06 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : GET
+URL : /articles/?
+TIMESTAMP : Sat Feb 06 2016 00:00:11 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"5fb-X0hB1TjgkqfEtrLq24r+gQ"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Sat Feb 06 2016 00:00:13 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : POST
+URL : /articles/undefined
+TIMESTAMP : Sat Feb 06 2016 00:00:16 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 63
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/undefined
+TIMESTAMP : Sat Feb 06 2016 00:00:16 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/undefined
+TIMESTAMP : Sat Feb 06 2016 00:00:51 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/undefined
+TIMESTAMP : Sat Feb 06 2016 00:01:06 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/?
+TIMESTAMP : Sat Feb 06 2016 00:01:11 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/undefined
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"5fb-X0hB1TjgkqfEtrLq24r+gQ"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Sat Feb 06 2016 00:01:13 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : POST
+URL : /articles/undefined
+TIMESTAMP : Sat Feb 06 2016 00:01:15 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 63
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/undefined
+TIMESTAMP : Sat Feb 06 2016 00:01:15 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/?
+TIMESTAMP : Sat Feb 06 2016 00:01:16 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/undefined
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"5fb-X0hB1TjgkqfEtrLq24r+gQ"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see
+TIMESTAMP : Sat Feb 06 2016 00:01:17 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"135-Y910vX3z4H8lxLeReKwz6g"
+  
+"""
+METHOD : GET
+URL : /articles/?
+TIMESTAMP : Sat Feb 06 2016 00:01:19 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"5fb-X0hB1TjgkqfEtrLq24r+gQ"
+  
+"""
+METHOD : GET
+URL : /articles/boredom
+TIMESTAMP : Sat Feb 06 2016 00:01:21 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"11a-sMeOok3eC73IBsIfxQjveQ"
+  
+"""
+METHOD : GET
+URL : /articles/?
+TIMESTAMP : Sat Feb 06 2016 00:01:24 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/boredom
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"5fb-X0hB1TjgkqfEtrLq24r+gQ"
+  
+"""
+METHOD : GET
+URL : /articles/testing
+TIMESTAMP : Sat Feb 06 2016 00:01:27 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/?
+TIMESTAMP : Sat Feb 06 2016 00:01:28 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/testing
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"5fb-X0hB1TjgkqfEtrLq24r+gQ"
+  
+"""
+METHOD : GET
+URL : /articles/?
+TIMESTAMP : Sat Feb 06 2016 00:02:33 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/testing
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"5fb-X0hB1TjgkqfEtrLq24r+gQ"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Sat Feb 06 2016 00:02:35 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Sat Feb 06 2016 00:02:38 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Sat Feb 06 2016 00:02:39 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Sat Feb 06 2016 00:02:41 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see
+TIMESTAMP : Sat Feb 06 2016 00:02:45 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"10f-8VDdFCa75ydeKPYUwzGW1g"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see
+TIMESTAMP : Sat Feb 06 2016 00:02:59 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"10f-8VDdFCa75ydeKPYUwzGW1g"
+  
+"""
+METHOD : GET
+URL : /articles/?
+TIMESTAMP : Sat Feb 06 2016 00:03:01 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"5fb-X0hB1TjgkqfEtrLq24r+gQ"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Sat Feb 06 2016 00:03:03 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : POST
+URL : /articles/undefined
+TIMESTAMP : Sat Feb 06 2016 00:03:04 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 63
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/undefined
+TIMESTAMP : Sat Feb 06 2016 00:03:04 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/undefined
+TIMESTAMP : Sat Feb 06 2016 00:03:06 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"10f-8VDdFCa75ydeKPYUwzGW1g"
+  
+"""
+METHOD : GET
+URL : /articles/undefined
+TIMESTAMP : Sat Feb 06 2016 00:03:27 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"10f-8VDdFCa75ydeKPYUwzGW1g"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Sat Feb 06 2016 00:06:17 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : POST
+URL : /articles/undefined
+TIMESTAMP : Sat Feb 06 2016 00:06:21 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 63
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/?
+TIMESTAMP : Sat Feb 06 2016 00:06:32 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"5fb-X0hB1TjgkqfEtrLq24r+gQ"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see
+TIMESTAMP : Sat Feb 06 2016 00:06:34 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"10f-8VDdFCa75ydeKPYUwzGW1g"
+  
+"""
+METHOD : GET
+URL : /articles/?
+TIMESTAMP : Sat Feb 06 2016 00:06:36 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"5fb-X0hB1TjgkqfEtrLq24r+gQ"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Sat Feb 06 2016 00:06:37 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : POST
+URL : /articles/undefined
+TIMESTAMP : Sat Feb 06 2016 00:06:41 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 61
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : POST
+URL : /articles/undefined
+TIMESTAMP : Sat Feb 06 2016 00:07:26 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 61
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Sat Feb 06 2016 00:08:14 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : GET
+URL : /articles/?
+TIMESTAMP : Sat Feb 06 2016 00:08:19 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"5fb-X0hB1TjgkqfEtrLq24r+gQ"
+  
+"""
+METHOD : POST
+URL : /articles/testing
+TIMESTAMP : Sat Feb 06 2016 00:08:24 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 14
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : POST
+URL : /articles/testing
+TIMESTAMP : Sat Feb 06 2016 00:08:26 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 14
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/?
+TIMESTAMP : Sat Feb 06 2016 00:08:44 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"5fb-X0hB1TjgkqfEtrLq24r+gQ"
+  
+"""
+METHOD : POST
+URL : /articles/boredom
+TIMESTAMP : Sat Feb 06 2016 00:08:47 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 14
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles
+TIMESTAMP : Sat Feb 06 2016 00:08:47 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"452-UIjff4vUpEQ8r+bIW+EwWA"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see
+TIMESTAMP : Sat Feb 06 2016 00:08:52 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"135-Y910vX3z4H8lxLeReKwz6g"
+  
+"""
+METHOD : GET
+URL : /articles
+TIMESTAMP : Sat Feb 06 2016 18:41:37 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"2ab-jChVCTVjjlA+YyzP1zuyrQ"
+  
+"""
+METHOD : GET
+URL : /articles
+TIMESTAMP : Sat Feb 06 2016 18:41:38 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Sat Feb 06 2016 18:41:40 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : POST
+URL : /articles/undefined
+TIMESTAMP : Sat Feb 06 2016 18:41:46 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 63
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/undefined
+TIMESTAMP : Sat Feb 06 2016 18:41:46 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles
+TIMESTAMP : Sat Feb 06 2016 18:42:21 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"2ab-jChVCTVjjlA+YyzP1zuyrQ"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Sat Feb 06 2016 18:42:23 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : POST
+URL : /articles/undefined
+TIMESTAMP : Sat Feb 06 2016 18:42:48 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 51
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/enderjekj
+TIMESTAMP : Sat Feb 06 2016 18:42:48 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Sat Feb 06 2016 18:42:57 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Sat Feb 06 2016 18:44:51 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : GET
+URL : /articles
+TIMESTAMP : Sat Feb 06 2016 18:46:49 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"2ab-jChVCTVjjlA+YyzP1zuyrQ"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Sat Feb 06 2016 18:46:51 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : GET
+URL : /products
+TIMESTAMP : Sat Feb 06 2016 18:48:24 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"730-FgmAExR3++XNQ664bfHTNg"
+  
+"""
+METHOD : GET
+URL : /products
+TIMESTAMP : Sat Feb 06 2016 18:48:26 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"730-FgmAExR3++XNQ664bfHTNg"
+  
+"""
+METHOD : GET
+URL : /products/56b5871e52e877348b0de326
+TIMESTAMP : Sat Feb 06 2016 18:48:28 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/products
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/?
+TIMESTAMP : Sat Feb 06 2016 18:48:31 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/products/56b5871e52e877348b0de326
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"730-FgmAExR3++XNQ664bfHTNg"
+  
+"""
+METHOD : GET
+URL : /products/56b5875152e877348b0de328
+TIMESTAMP : Sat Feb 06 2016 18:48:32 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/products/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/?
+TIMESTAMP : Sat Feb 06 2016 18:48:33 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/products/56b5875152e877348b0de328
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"730-FgmAExR3++XNQ664bfHTNg"
+  
+"""
+METHOD : GET
+URL : /products/56b5871e52e877348b0de326/edit?
+TIMESTAMP : Sat Feb 06 2016 18:48:39 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/products/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"25e-n24I7JAAh/bg4Za0R6aM8A"
+  
+"""
+METHOD : POST
+URL : /products/56b5b73bd9891d5f943bc9a9
+TIMESTAMP : Sat Feb 06 2016 18:48:46 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 14
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/products/?
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products
+TIMESTAMP : Sat Feb 06 2016 18:48:46 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/products/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"730-FgmAExR3++XNQ664bfHTNg"
+  
+"""
+METHOD : GET
+URL : /articles
+TIMESTAMP : Sat Feb 06 2016 18:51:10 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"2ab-jChVCTVjjlA+YyzP1zuyrQ"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Sat Feb 06 2016 18:51:12 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : GET
+URL : /articles
+TIMESTAMP : Sat Feb 06 2016 18:51:35 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"2ab-jChVCTVjjlA+YyzP1zuyrQ"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Sat Feb 06 2016 18:51:37 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : GET
+URL : /articles
+TIMESTAMP : Sat Feb 06 2016 18:56:15 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"2ab-jChVCTVjjlA+YyzP1zuyrQ"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Sat Feb 06 2016 18:56:17 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Sat Feb 06 2016 18:58:03 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Sat Feb 06 2016 18:58:05 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see
+TIMESTAMP : Sat Feb 06 2016 18:58:11 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see
+TIMESTAMP : Sat Feb 06 2016 18:58:15 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles
+TIMESTAMP : Sat Feb 06 2016 19:00:20 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"2ab-jChVCTVjjlA+YyzP1zuyrQ"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Sat Feb 06 2016 19:00:22 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : GET
+URL : /articles
+TIMESTAMP : Sat Feb 06 2016 19:01:48 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"2ab-jChVCTVjjlA+YyzP1zuyrQ"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Sat Feb 06 2016 19:01:50 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : GET
+URL : /articles
+TIMESTAMP : Sat Feb 06 2016 19:09:11 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"2ab-jChVCTVjjlA+YyzP1zuyrQ"
+  
+"""
+METHOD : GET
+URL : /articles/56b5baa4e9f0a05495d65983/edit
+TIMESTAMP : Sat Feb 06 2016 19:09:19 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""

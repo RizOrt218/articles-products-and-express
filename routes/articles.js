@@ -23,10 +23,10 @@ router.use(function(req, res, next) {
   }, "");
 
   var logData = {
-    METHOD : req.originalMethod,
-    URL : req.originalUrl,
-    TIMESTAMP : new Date(),
-    HEADERS : prettyZeHeader
+    METHOD   : req.originalMethod,
+    URL      : req.originalUrl,
+    TIMESTAMP: new Date(),
+    HEADERS  : prettyZeHeader
   };
 
   // this will take object and make it human readable
@@ -46,23 +46,22 @@ router.use(function(req, res, next) {
 
 
 // end middleware
-
 router.route('/')
-  .get(function(req, res) {
+  .get(function (req, res) {
     Articles.all()
-    .then(function(data) {
+    .then(function (data) {
       res.render('articles/index', {
         articles: data
       });
     })
-    .catch(function(err){
+    .catch(function (err){
       res.send(err);
     });
   })
 
   .post(function (req, res) {
     Articles.add(req.body)
-      .then(function(data) {
+      .then(function (data) {
         res.redirect('/articles/');
       })
       .catch(function(err) {
@@ -71,23 +70,25 @@ router.route('/')
   });
 
 router.route('/new')
-  .get(function(req,res) {
+  .get(function (req,res) {
     res.render('articles/new');
   });
 
-router.route('/:title/edit')
-  .get(function(req, res) {
+router.route('/:id/edit')
+  .get(function (req, res) {
+    var result = Articles.getByTitle( req.params.id );
+    console.log("ROUTE RESULT", result);
     res.render('articles/edit', {
-      articles: Articles.getByTitle( req.params.title )
+      articles: Articles.getByTitle( req.params.id )
     });
   });
 
 router.route('/:title')
-  .get(function(req, res) {
+  .get(function (req, res) {
     Articles.getByTitle(req.params.title)
-    .then(function(data) {
+    .then(function (data) {
       res.render('articles/single', {
-        article:data[0]
+        article:data
       });
     })
     .catch(function(err) {
@@ -100,16 +101,16 @@ router.route('/:title')
     Articles.editByTitle( req.params.title, req.body, function(err) {
       if(err) return res.send({success: false, message: err.message});
 
-      return res.redirect('/articles/' + req.body.title);
     });
+      return res.redirect('/articles/' + req.body.title);
   })
 
   .delete(function (req, res) {
     Articles.deleteByTitle( req.params.title, function(err) {
       if(err) return res.send({success: false, message: err.message});
 
-      return res.redirect('/articles/');
   });
+      return res.redirect('/articles');
 })
 ;
 

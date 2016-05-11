@@ -4,9 +4,10 @@ block content
   ul
     each data in articles
       li Article Title:&nbsp
-        a(href="/articles/#{data.title}") #{data.title}&nbsp
+
+        a(href="/articles/#{data.id}/edit") #{data.title}&nbsp
         p by #{data.author}
-        form(type="submit", action="/articles/#{data.title}/edit")
+        //- form(type="submit", action="/articles/#{data.title}/edit")
           input(type="hidden", name="_method", value="PUT")
           button(type="submit", value="submit") edit
         form(name="delete-articles", method="POST", action="/articles/#{data.title}")

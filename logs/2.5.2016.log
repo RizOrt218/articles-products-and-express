@@ -1,0 +1,4944 @@
+METHOD : GET
+URL : /products/
+TIMESTAMP : Fri Feb 05 2016 18:44:06 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/1
+TIMESTAMP : Fri Feb 05 2016 18:44:18 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/2
+TIMESTAMP : Fri Feb 05 2016 18:44:24 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products
+TIMESTAMP : Fri Feb 05 2016 18:44:29 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products
+TIMESTAMP : Fri Feb 05 2016 18:47:50 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products
+TIMESTAMP : Fri Feb 05 2016 18:48:24 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products
+TIMESTAMP : Fri Feb 05 2016 18:50:47 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products
+TIMESTAMP : Fri Feb 05 2016 18:50:49 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products
+TIMESTAMP : Fri Feb 05 2016 18:51:24 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/new
+TIMESTAMP : Fri Feb 05 2016 18:52:09 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : POST
+URL : /products/
+TIMESTAMP : Fri Feb 05 2016 18:52:25 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 53
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/products/new
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/new
+TIMESTAMP : Fri Feb 05 2016 18:54:51 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"279-yMN3slCZzzpajMq5G1Q9ww"
+  
+"""
+METHOD : POST
+URL : /products/
+TIMESTAMP : Fri Feb 05 2016 19:01:53 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 61
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/products/new
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : POST
+URL : /products/
+TIMESTAMP : Fri Feb 05 2016 19:03:47 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 61
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/products/new
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products
+TIMESTAMP : Fri Feb 05 2016 19:03:53 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"ad-OAREIT74thpMSWW5MtyCzQ"
+  
+"""
+METHOD : GET
+URL : /products/new
+TIMESTAMP : Fri Feb 05 2016 19:04:43 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"279-yMN3slCZzzpajMq5G1Q9ww"
+  
+"""
+METHOD : POST
+URL : /products/
+TIMESTAMP : Fri Feb 05 2016 19:04:55 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 51
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/products/new
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : POST
+URL : /products/
+TIMESTAMP : Fri Feb 05 2016 19:06:02 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 51
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/products/new
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : POST
+URL : /products/
+TIMESTAMP : Fri Feb 05 2016 19:07:00 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 48
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/products/new
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/
+TIMESTAMP : Fri Feb 05 2016 19:07:01 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/new
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/56b57f74eca1a6d187d5608e/edit?
+TIMESTAMP : Fri Feb 05 2016 19:07:12 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/
+TIMESTAMP : Fri Feb 05 2016 19:07:53 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/new
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"240-FOrRYPC2UWKzwPJd8WfuuA"
+  
+"""
+METHOD : GET
+URL : /products/
+TIMESTAMP : Fri Feb 05 2016 19:07:56 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/new
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"240-FOrRYPC2UWKzwPJd8WfuuA"
+  
+"""
+METHOD : GET
+URL : /products
+TIMESTAMP : Fri Feb 05 2016 19:08:01 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"ad-OAREIT74thpMSWW5MtyCzQ"
+  
+"""
+METHOD : GET
+URL : /products/56b57f74eca1a6d187d5608e/edit?
+TIMESTAMP : Fri Feb 05 2016 19:08:04 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : POST
+URL : /products/56b57f74eca1a6d187d5608e
+TIMESTAMP : Fri Feb 05 2016 19:09:02 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 14
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/products
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products
+TIMESTAMP : Fri Feb 05 2016 19:09:05 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"240-FOrRYPC2UWKzwPJd8WfuuA"
+  
+"""
+METHOD : GET
+URL : /products/new
+TIMESTAMP : Fri Feb 05 2016 19:09:20 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"279-yMN3slCZzzpajMq5G1Q9ww"
+  
+"""
+METHOD : POST
+URL : /products/
+TIMESTAMP : Fri Feb 05 2016 19:09:30 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 48
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/products/new
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/
+TIMESTAMP : Fri Feb 05 2016 19:09:30 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/new
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/56b5800a08c1f2f68732ac61
+TIMESTAMP : Fri Feb 05 2016 19:09:38 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/
+TIMESTAMP : Fri Feb 05 2016 19:11:03 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"3d3-8cYnxwEBKFklMrQ6McbjfQ"
+  
+"""
+METHOD : GET
+URL : /products/56b57f74eca1a6d187d5608e
+TIMESTAMP : Fri Feb 05 2016 19:12:06 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/
+TIMESTAMP : Fri Feb 05 2016 19:14:41 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"3d3-8cYnxwEBKFklMrQ6McbjfQ"
+  
+"""
+METHOD : GET
+URL : /products/56b57f74eca1a6d187d5608e
+TIMESTAMP : Fri Feb 05 2016 19:14:43 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/56b57f74eca1a6d187d5608e
+TIMESTAMP : Fri Feb 05 2016 19:16:30 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/?
+TIMESTAMP : Fri Feb 05 2016 19:16:49 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/56b57f74eca1a6d187d5608e
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/56b57f74eca1a6d187d5608e
+TIMESTAMP : Fri Feb 05 2016 19:16:54 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"145-nsMg0311vmihDRyqsoCGYA"
+  
+"""
+METHOD : GET
+URL : /products/56b57f74eca1a6d187d5608e
+TIMESTAMP : Fri Feb 05 2016 19:17:07 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"145-nsMg0311vmihDRyqsoCGYA"
+  
+"""
+METHOD : GET
+URL : /products/56b57f74eca1a6d187d5608e
+TIMESTAMP : Fri Feb 05 2016 19:17:15 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"12d-i3JfdSXappKXn04xigOmUA"
+  
+"""
+METHOD : GET
+URL : /products/56b57f74eca1a6d187d5608e
+TIMESTAMP : Fri Feb 05 2016 19:17:47 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"145-nsMg0311vmihDRyqsoCGYA"
+  
+"""
+METHOD : GET
+URL : /products/56b57f74eca1a6d187d5608e
+TIMESTAMP : Fri Feb 05 2016 19:17:49 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"145-nsMg0311vmihDRyqsoCGYA"
+  
+"""
+METHOD : GET
+URL : /products/56b57f74eca1a6d187d5608e
+TIMESTAMP : Fri Feb 05 2016 19:18:01 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"145-nsMg0311vmihDRyqsoCGYA"
+  
+"""
+METHOD : GET
+URL : /products/56b57f74eca1a6d187d5608e/edit?
+TIMESTAMP : Fri Feb 05 2016 19:18:08 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : POST
+URL : /products/56b57f74eca1a6d187d5608e
+TIMESTAMP : Fri Feb 05 2016 19:18:15 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 58
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/products/56b57f74eca1a6d187d5608e/edit?
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : POST
+URL : /products/56b57f74eca1a6d187d5608e
+TIMESTAMP : Fri Feb 05 2016 19:18:19 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 58
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/products/56b57f74eca1a6d187d5608e/edit?
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/56b57f74eca1a6d187d5608e
+TIMESTAMP : Fri Feb 05 2016 19:18:22 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/new
+TIMESTAMP : Fri Feb 05 2016 19:18:26 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"279-yMN3slCZzzpajMq5G1Q9ww"
+  
+"""
+METHOD : POST
+URL : /products/
+TIMESTAMP : Fri Feb 05 2016 19:18:38 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 48
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/products/new
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/
+TIMESTAMP : Fri Feb 05 2016 19:18:38 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/new
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/56b57f74eca1a6d187d5608e
+TIMESTAMP : Fri Feb 05 2016 19:18:40 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"12b-/A0VNBNGNGkcnK6CxrNvhg"
+  
+"""
+METHOD : GET
+URL : /products/56b5800a08c1f2f68732ac61
+TIMESTAMP : Fri Feb 05 2016 19:18:43 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/56b5822e569c2bff88967c25
+TIMESTAMP : Fri Feb 05 2016 19:18:46 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/56b5822e569c2bff88967c25
+TIMESTAMP : Fri Feb 05 2016 19:19:34 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"12c-LQekPSwXWnusNQCffkJdLg"
+  
+"""
+METHOD : GET
+URL : /products/
+TIMESTAMP : Fri Feb 05 2016 19:19:44 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"566-3zlXH1BuVdDDRdZihkSSOA"
+  
+"""
+METHOD : GET
+URL : /products/56b57f74eca1a6d187d5608e
+TIMESTAMP : Fri Feb 05 2016 19:19:47 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"12b-/A0VNBNGNGkcnK6CxrNvhg"
+  
+"""
+METHOD : GET
+URL : /products/56b57f74eca1a6d187d5608e
+TIMESTAMP : Fri Feb 05 2016 19:20:36 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"12b-/A0VNBNGNGkcnK6CxrNvhg"
+  
+"""
+METHOD : GET
+URL : /products/new
+TIMESTAMP : Fri Feb 05 2016 19:20:39 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"279-yMN3slCZzzpajMq5G1Q9ww"
+  
+"""
+METHOD : POST
+URL : /products/
+TIMESTAMP : Fri Feb 05 2016 19:20:51 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 55
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/products/new
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : POST
+URL : /products/
+TIMESTAMP : Fri Feb 05 2016 19:21:38 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 54
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/products/new
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/
+TIMESTAMP : Fri Feb 05 2016 19:21:38 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/new
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/56b582e2209d79718947c546
+TIMESTAMP : Fri Feb 05 2016 19:21:46 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/?
+TIMESTAMP : Fri Feb 05 2016 19:23:04 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/56b582e2209d79718947c546
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"3d3-8cYnxwEBKFklMrQ6McbjfQ"
+  
+"""
+METHOD : GET
+URL : /products/?
+TIMESTAMP : Fri Feb 05 2016 19:23:07 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/56b582e2209d79718947c546
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"700-YNkE35DF0zlWa52suz9yjg"
+  
+"""
+METHOD : POST
+URL : /products/56b57f74eca1a6d187d5608e
+TIMESTAMP : Fri Feb 05 2016 19:23:21 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 14
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/products/?
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : POST
+URL : /products/56b57f74eca1a6d187d5608e
+TIMESTAMP : Fri Feb 05 2016 19:23:25 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 14
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/products/?
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"2-mZFLkyvTelC5g8XnyQrpOw"
+  
+"""
+METHOD : GET
+URL : /products/?
+TIMESTAMP : Fri Feb 05 2016 19:23:29 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/56b582e2209d79718947c546
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"700-YNkE35DF0zlWa52suz9yjg"
+  
+"""
+METHOD : POST
+URL : /products/56b582e2209d79718947c546
+TIMESTAMP : Fri Feb 05 2016 19:23:32 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 14
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/products/?
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/?
+TIMESTAMP : Fri Feb 05 2016 19:24:32 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"700-YNkE35DF0zlWa52suz9yjg"
+  
+"""
+METHOD : GET
+URL : /products/56b582e2209d79718947c546/edit?
+TIMESTAMP : Fri Feb 05 2016 19:24:35 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/56b582e2209d79718947c546/edit?
+TIMESTAMP : Fri Feb 05 2016 19:26:25 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/?
+TIMESTAMP : Fri Feb 05 2016 19:26:28 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"700-YNkE35DF0zlWa52suz9yjg"
+  
+"""
+METHOD : GET
+URL : /products/56b582e2209d79718947c546/edit?
+TIMESTAMP : Fri Feb 05 2016 19:26:31 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/new
+TIMESTAMP : Fri Feb 05 2016 19:26:39 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"279-yMN3slCZzzpajMq5G1Q9ww"
+  
+"""
+METHOD : POST
+URL : /products/
+TIMESTAMP : Fri Feb 05 2016 19:26:46 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 52
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/products/new
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/
+TIMESTAMP : Fri Feb 05 2016 19:29:59 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"6f9-OdcElDGQZDWLy89ZOR5e4w"
+  
+"""
+METHOD : GET
+URL : /products/
+TIMESTAMP : Fri Feb 05 2016 19:30:02 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"700-YNkE35DF0zlWa52suz9yjg"
+  
+"""
+METHOD : GET
+URL : /products/56b582e2209d79718947c546/edit?
+TIMESTAMP : Fri Feb 05 2016 19:30:06 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/56b582e2209d79718947c546/edit?
+TIMESTAMP : Fri Feb 05 2016 19:30:49 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : POST
+URL : /products/56b582e2209d79718947c546
+TIMESTAMP : Fri Feb 05 2016 19:31:03 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 76
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/products/56b582e2209d79718947c546/edit?
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : POST
+URL : /products/56b582e2209d79718947c546
+TIMESTAMP : Fri Feb 05 2016 19:32:09 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 76
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/products/56b582e2209d79718947c546/edit?
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : POST
+URL : /products/56b582e2209d79718947c546
+TIMESTAMP : Fri Feb 05 2016 19:34:48 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 76
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/products/56b582e2209d79718947c546/edit?
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/?
+TIMESTAMP : Fri Feb 05 2016 19:34:52 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/56b582e2209d79718947c546
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"6f9-OdcElDGQZDWLy89ZOR5e4w"
+  
+"""
+METHOD : GET
+URL : /products/56b5822e569c2bff88967c25
+TIMESTAMP : Fri Feb 05 2016 19:35:02 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/56b5822e569c2bff88967c25/edit?
+TIMESTAMP : Fri Feb 05 2016 19:35:07 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : POST
+URL : /products/56b5822e569c2bff88967c25
+TIMESTAMP : Fri Feb 05 2016 19:35:13 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 59
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/products/56b5822e569c2bff88967c25/edit?
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/?
+TIMESTAMP : Fri Feb 05 2016 19:35:21 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/56b5822e569c2bff88967c25
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"700-YNkE35DF0zlWa52suz9yjg"
+  
+"""
+METHOD : GET
+URL : /products/56b5822e569c2bff88967c25
+TIMESTAMP : Fri Feb 05 2016 19:35:28 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/?
+TIMESTAMP : Fri Feb 05 2016 19:35:58 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/56b5822e569c2bff88967c25
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"700-YNkE35DF0zlWa52suz9yjg"
+  
+"""
+METHOD : GET
+URL : /products/56b582e2209d79718947c546
+TIMESTAMP : Fri Feb 05 2016 19:36:00 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/?
+TIMESTAMP : Fri Feb 05 2016 19:36:57 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/56b582e2209d79718947c546
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"700-YNkE35DF0zlWa52suz9yjg"
+  
+"""
+METHOD : GET
+URL : /products/new
+TIMESTAMP : Fri Feb 05 2016 19:36:59 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"279-yMN3slCZzzpajMq5G1Q9ww"
+  
+"""
+METHOD : GET
+URL : /products/56b582e2209d79718947c546
+TIMESTAMP : Fri Feb 05 2016 19:37:11 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"137-kI+XlWYGlhWD1MgnvEEFgQ"
+  
+"""
+METHOD : GET
+URL : /products/56b582e2209d79718947c546
+TIMESTAMP : Fri Feb 05 2016 19:39:12 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"137-kI+XlWYGlhWD1MgnvEEFgQ"
+  
+"""
+METHOD : GET
+URL : /products/?
+TIMESTAMP : Fri Feb 05 2016 19:39:17 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/56b582e2209d79718947c546
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"700-YNkE35DF0zlWa52suz9yjg"
+  
+"""
+METHOD : POST
+URL : /products/56b582e2209d79718947c546
+TIMESTAMP : Fri Feb 05 2016 19:39:19 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 14
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/products/?
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products
+TIMESTAMP : Fri Feb 05 2016 19:39:19 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"240-FOrRYPC2UWKzwPJd8WfuuA"
+  
+"""
+METHOD : POST
+URL : /products/56b5822e569c2bff88967c25
+TIMESTAMP : Fri Feb 05 2016 19:39:21 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 14
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/products
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products
+TIMESTAMP : Fri Feb 05 2016 19:39:21 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"566-3zlXH1BuVdDDRdZihkSSOA"
+  
+"""
+METHOD : POST
+URL : /products/56b5800a08c1f2f68732ac61
+TIMESTAMP : Fri Feb 05 2016 19:39:22 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 14
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/products
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products
+TIMESTAMP : Fri Feb 05 2016 19:39:22 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"3d3-8cYnxwEBKFklMrQ6McbjfQ"
+  
+"""
+METHOD : POST
+URL : /products/56b57f74eca1a6d187d5608e
+TIMESTAMP : Fri Feb 05 2016 19:39:23 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 14
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/products
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products
+TIMESTAMP : Fri Feb 05 2016 19:39:23 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"240-FOrRYPC2UWKzwPJd8WfuuA"
+  
+"""
+METHOD : GET
+URL : /products/new
+TIMESTAMP : Fri Feb 05 2016 19:39:24 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"279-yMN3slCZzzpajMq5G1Q9ww"
+  
+"""
+METHOD : POST
+URL : /products/
+TIMESTAMP : Fri Feb 05 2016 19:39:42 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 63
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/products/new
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/
+TIMESTAMP : Fri Feb 05 2016 19:39:42 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/new
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/new
+TIMESTAMP : Fri Feb 05 2016 19:39:45 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"279-yMN3slCZzzpajMq5G1Q9ww"
+  
+"""
+METHOD : POST
+URL : /products/
+TIMESTAMP : Fri Feb 05 2016 19:40:16 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 63
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/products/new
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/
+TIMESTAMP : Fri Feb 05 2016 19:40:16 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/new
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/new
+TIMESTAMP : Fri Feb 05 2016 19:40:19 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"279-yMN3slCZzzpajMq5G1Q9ww"
+  
+"""
+METHOD : POST
+URL : /products/
+TIMESTAMP : Fri Feb 05 2016 19:40:33 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 56
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/products/new
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/
+TIMESTAMP : Fri Feb 05 2016 19:40:33 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/products/new
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles
+TIMESTAMP : Fri Feb 05 2016 22:09:37 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/new
+TIMESTAMP : Fri Feb 05 2016 22:10:40 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : POST
+URL : /articles/
+TIMESTAMP : Fri Feb 05 2016 22:10:55 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 35
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/new
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles
+TIMESTAMP : Fri Feb 05 2016 22:11:07 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"ad-wYbMQ8C+/5ePRR8Uhtgu0w"
+  
+"""
+METHOD : GET
+URL : /articles/new
+TIMESTAMP : Fri Feb 05 2016 22:13:33 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"212-LsiTbXMMSDwRzQrfp2Zarw"
+  
+"""
+METHOD : POST
+URL : /articles/
+TIMESTAMP : Fri Feb 05 2016 22:14:33 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 61
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/new
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : POST
+URL : /articles/
+TIMESTAMP : Fri Feb 05 2016 22:16:00 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 61
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/new
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/
+TIMESTAMP : Fri Feb 05 2016 22:16:00 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/articles/new
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/new
+TIMESTAMP : Fri Feb 05 2016 22:17:02 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"212-LsiTbXMMSDwRzQrfp2Zarw"
+  
+"""
+METHOD : POST
+URL : /articles/
+TIMESTAMP : Fri Feb 05 2016 22:17:29 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 50
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/new
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/
+TIMESTAMP : Fri Feb 05 2016 22:17:29 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/articles/new
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/new
+TIMESTAMP : Fri Feb 05 2016 22:17:33 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"212-LsiTbXMMSDwRzQrfp2Zarw"
+  
+"""
+METHOD : POST
+URL : /articles/
+TIMESTAMP : Fri Feb 05 2016 22:17:54 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 51
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/new
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/
+TIMESTAMP : Fri Feb 05 2016 22:17:54 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/articles/new
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Fri Feb 05 2016 22:19:59 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Fri Feb 05 2016 22:20:55 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : GET
+URL : /articles/The%20Notebook/edit?_method=PUT
+TIMESTAMP : Fri Feb 05 2016 22:21:06 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/The%20life%20we%20bury/edit?_method=PUT
+TIMESTAMP : Fri Feb 05 2016 22:21:09 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see
+TIMESTAMP : Fri Feb 05 2016 22:21:18 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Fri Feb 05 2016 22:24:07 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : GET
+URL : /articles/
+TIMESTAMP : Fri Feb 05 2016 22:24:11 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/articles/new
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"644-4Wpbdk3OlU5nd9YsximbPA"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see
+TIMESTAMP : Fri Feb 05 2016 22:24:33 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles
+TIMESTAMP : Fri Feb 05 2016 22:25:11 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"ad-wYbMQ8C+/5ePRR8Uhtgu0w"
+  
+"""
+METHOD : GET
+URL : /articles
+TIMESTAMP : Fri Feb 05 2016 22:41:42 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"644-4Wpbdk3OlU5nd9YsximbPA"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see
+TIMESTAMP : Fri Feb 05 2016 22:41:45 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see
+TIMESTAMP : Fri Feb 05 2016 22:41:49 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see
+TIMESTAMP : Fri Feb 05 2016 22:41:58 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see
+TIMESTAMP : Fri Feb 05 2016 22:42:02 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see
+TIMESTAMP : Fri Feb 05 2016 22:44:43 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles
+TIMESTAMP : Fri Feb 05 2016 22:44:48 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"644-4Wpbdk3OlU5nd9YsximbPA"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see
+TIMESTAMP : Fri Feb 05 2016 22:44:50 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"b7-Y/bykLXDEGthsXXBCiI1BQ"
+  
+"""
+METHOD : GET
+URL : /articles
+TIMESTAMP : Fri Feb 05 2016 22:47:19 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"644-4Wpbdk3OlU5nd9YsximbPA"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see
+TIMESTAMP : Fri Feb 05 2016 22:47:22 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"b7-Y/bykLXDEGthsXXBCiI1BQ"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see
+TIMESTAMP : Fri Feb 05 2016 22:47:59 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"b7-Y/bykLXDEGthsXXBCiI1BQ"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see
+TIMESTAMP : Fri Feb 05 2016 22:50:27 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"b7-Y/bykLXDEGthsXXBCiI1BQ"
+  
+"""
+METHOD : GET
+URL : /articles/The%20Notebook
+TIMESTAMP : Fri Feb 05 2016 22:50:33 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/new
+TIMESTAMP : Fri Feb 05 2016 22:50:38 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"212-LsiTbXMMSDwRzQrfp2Zarw"
+  
+"""
+METHOD : POST
+URL : /articles/
+TIMESTAMP : Fri Feb 05 2016 22:50:57 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 52
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/new
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/
+TIMESTAMP : Fri Feb 05 2016 22:50:57 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/new
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/new
+TIMESTAMP : Fri Feb 05 2016 22:52:16 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"212-LsiTbXMMSDwRzQrfp2Zarw"
+  
+"""
+METHOD : POST
+URL : /articles/
+TIMESTAMP : Fri Feb 05 2016 22:52:37 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 54
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/new
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : POST
+URL : /articles/
+TIMESTAMP : Fri Feb 05 2016 22:52:53 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 54
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/new
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : POST
+URL : /articles/
+TIMESTAMP : Fri Feb 05 2016 22:53:34 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 54
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/new
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/
+TIMESTAMP : Fri Feb 05 2016 22:53:34 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/new
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see
+TIMESTAMP : Fri Feb 05 2016 22:53:49 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"b7-Y/bykLXDEGthsXXBCiI1BQ"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see
+TIMESTAMP : Fri Feb 05 2016 22:54:50 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"b7-Y/bykLXDEGthsXXBCiI1BQ"
+  
+"""
+METHOD : GET
+URL : /articles/?
+TIMESTAMP : Fri Feb 05 2016 22:54:53 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/The%20Notebook
+TIMESTAMP : Fri Feb 05 2016 22:54:55 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"99-XQEySH1+s0FfpDIFfRpA/g"
+  
+"""
+METHOD : GET
+URL : /articles/?
+TIMESTAMP : Fri Feb 05 2016 22:54:57 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/The%20Notebook
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"9fd-HKun14iUCvTiNnqKFKIBfw"
+  
+"""
+METHOD : GET
+URL : /articles/The%20life%20we%20bury
+TIMESTAMP : Fri Feb 05 2016 22:54:59 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/?
+TIMESTAMP : Fri Feb 05 2016 22:55:01 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/The%20life%20we%20bury
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"9fd-HKun14iUCvTiNnqKFKIBfw"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Fri Feb 05 2016 22:55:02 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Fri Feb 05 2016 22:57:27 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : GET
+URL : /articles/The%20Notebook/edit?_method=PUT
+TIMESTAMP : Fri Feb 05 2016 22:57:30 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : POST
+URL : /articles/undefined
+TIMESTAMP : Fri Feb 05 2016 22:57:34 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 63
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/The%20Notebook/edit?_method=PUT
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/?
+TIMESTAMP : Fri Feb 05 2016 22:57:40 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/The%20life%20we%20bury
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"9fd-HKun14iUCvTiNnqKFKIBfw"
+  
+"""
+METHOD : GET
+URL : /articles/The%20Notebook/edit?_method=PUT
+TIMESTAMP : Fri Feb 05 2016 22:57:47 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : GET
+URL : /articles/?
+TIMESTAMP : Fri Feb 05 2016 22:59:24 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/The%20life%20we%20bury
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"9fd-HKun14iUCvTiNnqKFKIBfw"
+  
+"""
+METHOD : GET
+URL : /articles/The%20Notebook
+TIMESTAMP : Fri Feb 05 2016 22:59:28 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"12a-DSIyFVwGSkIfP777WLXMcw"
+  
+"""
+METHOD : GET
+URL : /articles/?
+TIMESTAMP : Fri Feb 05 2016 22:59:31 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/The%20Notebook
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"9fd-HKun14iUCvTiNnqKFKIBfw"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Fri Feb 05 2016 22:59:33 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : POST
+URL : /articles/undefined
+TIMESTAMP : Fri Feb 05 2016 22:59:46 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 63
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/?
+TIMESTAMP : Fri Feb 05 2016 22:59:52 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/The%20Notebook
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"9fd-HKun14iUCvTiNnqKFKIBfw"
+  
+"""
+METHOD : GET
+URL : /products
+TIMESTAMP : Fri Feb 05 2016 23:02:06 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"ad-OAREIT74thpMSWW5MtyCzQ"
+  
+"""
+METHOD : GET
+URL : /products/56b5871e52e877348b0de326/edit?
+TIMESTAMP : Fri Feb 05 2016 23:02:08 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/products
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/56b5874052e877348b0de327/edit?
+TIMESTAMP : Fri Feb 05 2016 23:02:35 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/products
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/56b5871e52e877348b0de326/edit?
+TIMESTAMP : Fri Feb 05 2016 23:03:02 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/products
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"25d-LwrVzI95buWMdGUNQRCDvg"
+  
+"""
+METHOD : GET
+URL : /products/56b5871e52e877348b0de326/edit?
+TIMESTAMP : Fri Feb 05 2016 23:03:35 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/products
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"2-mZFLkyvTelC5g8XnyQrpOw"
+  
+"""
+METHOD : GET
+URL : /products/56b5871e52e877348b0de326/edit?
+TIMESTAMP : Fri Feb 05 2016 23:04:16 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/products
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"25d-LwrVzI95buWMdGUNQRCDvg"
+  
+"""
+METHOD : GET
+URL : /products/56b5874052e877348b0de327
+TIMESTAMP : Fri Feb 05 2016 23:04:20 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/products
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/56b5871e52e877348b0de326/edit?
+TIMESTAMP : Fri Feb 05 2016 23:04:24 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/products
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"255-CSuzg+Ob/2DtYJFxnRVa6g"
+  
+"""
+METHOD : GET
+URL : /products
+TIMESTAMP : Fri Feb 05 2016 23:04:27 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"593-E0tozIzGGWpheYpfp+3mcA"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20small%20things
+TIMESTAMP : Fri Feb 05 2016 23:04:31 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/?
+TIMESTAMP : Fri Feb 05 2016 23:04:32 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/All%20the%20small%20things
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"9fd-HKun14iUCvTiNnqKFKIBfw"
+  
+"""
+METHOD : GET
+URL : /products
+TIMESTAMP : Fri Feb 05 2016 23:04:41 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"593-E0tozIzGGWpheYpfp+3mcA"
+  
+"""
+METHOD : GET
+URL : /products/56b5874052e877348b0de327/edit?
+TIMESTAMP : Fri Feb 05 2016 23:04:43 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/products
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"260-W6OuMtoDizwNNQP2o56OVA"
+  
+"""
+METHOD : GET
+URL : /products/new
+TIMESTAMP : Fri Feb 05 2016 23:04:48 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/products
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"279-yMN3slCZzzpajMq5G1Q9ww"
+  
+"""
+METHOD : POST
+URL : /products/
+TIMESTAMP : Fri Feb 05 2016 23:04:59 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 47
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/products/new
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/
+TIMESTAMP : Fri Feb 05 2016 23:04:59 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/products/new
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/56b5b73bd9891d5f943bc9a9/edit?
+TIMESTAMP : Fri Feb 05 2016 23:05:02 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/products/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/56b5b73bd9891d5f943bc9a9/edit?
+TIMESTAMP : Fri Feb 05 2016 23:05:23 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/products/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24d-XhAldQgF1EMvCuHXJdFlvw"
+  
+"""
+METHOD : POST
+URL : /products/56b5b73bd9891d5f943bc9a9
+TIMESTAMP : Fri Feb 05 2016 23:05:33 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 53
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/products/56b5b73bd9891d5f943bc9a9/edit?
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/?
+TIMESTAMP : Fri Feb 05 2016 23:05:36 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/products/56b5b73bd9891d5f943bc9a9
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"700-YNkE35DF0zlWa52suz9yjg"
+  
+"""
+METHOD : GET
+URL : /products/56b5875152e877348b0de328
+TIMESTAMP : Fri Feb 05 2016 23:05:38 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/products/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products/?
+TIMESTAMP : Fri Feb 05 2016 23:05:40 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/products/56b5875152e877348b0de328
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"730-FgmAExR3++XNQ664bfHTNg"
+  
+"""
+METHOD : GET
+URL : /products/56b5875152e877348b0de328/edit?
+TIMESTAMP : Fri Feb 05 2016 23:05:42 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/products/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products
+TIMESTAMP : Fri Feb 05 2016 23:05:49 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"593-E0tozIzGGWpheYpfp+3mcA"
+  
+"""
+METHOD : GET
+URL : /articles
+TIMESTAMP : Fri Feb 05 2016 23:05:52 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"644-4Wpbdk3OlU5nd9YsximbPA"
+  
+"""
+METHOD : GET
+URL : /articles/The%20life%20we%20bury/edit?_method=PUT
+TIMESTAMP : Fri Feb 05 2016 23:05:54 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : GET
+URL : /products
+TIMESTAMP : Fri Feb 05 2016 23:07:38 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"730-FgmAExR3++XNQ664bfHTNg"
+  
+"""
+METHOD : GET
+URL : /articles
+TIMESTAMP : Fri Feb 05 2016 23:07:43 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"9fd-HKun14iUCvTiNnqKFKIBfw"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see
+TIMESTAMP : Fri Feb 05 2016 23:07:48 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"135-Y910vX3z4H8lxLeReKwz6g"
+  
+"""
+METHOD : GET
+URL : /articles/?
+TIMESTAMP : Fri Feb 05 2016 23:07:51 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"9fd-HKun14iUCvTiNnqKFKIBfw"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Fri Feb 05 2016 23:07:53 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Fri Feb 05 2016 23:09:32 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : GET
+URL : /articles/?
+TIMESTAMP : Fri Feb 05 2016 23:09:36 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"9fd-HKun14iUCvTiNnqKFKIBfw"
+  
+"""
+METHOD : GET
+URL : /articles/the%20French%20Orphan
+TIMESTAMP : Fri Feb 05 2016 23:09:46 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/?
+TIMESTAMP : Fri Feb 05 2016 23:09:49 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/the%20French%20Orphan
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"9fd-HKun14iUCvTiNnqKFKIBfw"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see
+TIMESTAMP : Fri Feb 05 2016 23:11:02 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"135-Y910vX3z4H8lxLeReKwz6g"
+  
+"""
+METHOD : GET
+URL : /articles/?
+TIMESTAMP : Fri Feb 05 2016 23:11:05 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"9fd-HKun14iUCvTiNnqKFKIBfw"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Fri Feb 05 2016 23:11:08 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : GET
+URL : /articles/?
+TIMESTAMP : Fri Feb 05 2016 23:12:41 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"9fd-HKun14iUCvTiNnqKFKIBfw"
+  
+"""
+METHOD : POST
+URL : /articles/the%20French%20Orphan
+TIMESTAMP : Fri Feb 05 2016 23:12:46 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 14
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : POST
+URL : /articles/the%20French%20Orphan
+TIMESTAMP : Fri Feb 05 2016 23:13:01 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 14
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/?
+TIMESTAMP : Fri Feb 05 2016 23:13:07 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"9fd-HKun14iUCvTiNnqKFKIBfw"
+  
+"""
+METHOD : POST
+URL : /articles/All%20the%20small%20things
+TIMESTAMP : Fri Feb 05 2016 23:13:09 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 14
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : POST
+URL : /articles/All%20the%20small%20things
+TIMESTAMP : Fri Feb 05 2016 23:13:15 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 14
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/?
+TIMESTAMP : Fri Feb 05 2016 23:13:21 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"824-aKlwtWR/JxRWsr7pbdDtDw"
+  
+"""
+METHOD : POST
+URL : /articles/The%20life%20we%20bury
+TIMESTAMP : Fri Feb 05 2016 23:13:24 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 14
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/?
+TIMESTAMP : Fri Feb 05 2016 23:13:28 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"644-4Wpbdk3OlU5nd9YsximbPA"
+  
+"""
+METHOD : GET
+URL : /articles/?
+TIMESTAMP : Fri Feb 05 2016 23:13:46 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"471-ZIR2aDlPJPtvQVxewUGzFg"
+  
+"""
+METHOD : POST
+URL : /articles/The%20Notebook
+TIMESTAMP : Fri Feb 05 2016 23:13:48 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 14
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/?
+TIMESTAMP : Fri Feb 05 2016 23:13:52 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"471-ZIR2aDlPJPtvQVxewUGzFg"
+  
+"""
+METHOD : GET
+URL : /articles
+TIMESTAMP : Fri Feb 05 2016 23:13:59 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"9fd-HKun14iUCvTiNnqKFKIBfw"
+  
+"""
+METHOD : POST
+URL : /articles/All%20the%20light%20we%20cannot%20see
+TIMESTAMP : Fri Feb 05 2016 23:14:06 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 14
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles
+TIMESTAMP : Fri Feb 05 2016 23:14:09 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"2ab-jChVCTVjjlA+YyzP1zuyrQ"
+  
+"""
+METHOD : GET
+URL : /articles/new
+TIMESTAMP : Fri Feb 05 2016 23:18:13 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"212-LsiTbXMMSDwRzQrfp2Zarw"
+  
+"""
+METHOD : POST
+URL : /articles/
+TIMESTAMP : Fri Feb 05 2016 23:18:29 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 65
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/new
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/
+TIMESTAMP : Fri Feb 05 2016 23:18:29 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/new
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : POST
+URL : /articles/All%20the%20light%20we%20cannot%20see
+TIMESTAMP : Fri Feb 05 2016 23:18:32 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 14
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/
+TIMESTAMP : Fri Feb 05 2016 23:18:35 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/new
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"2af-QhPTOQPUwbepwD7jxTe1xA"
+  
+"""
+METHOD : GET
+URL : /articles/new
+TIMESTAMP : Fri Feb 05 2016 23:19:00 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"212-LsiTbXMMSDwRzQrfp2Zarw"
+  
+"""
+METHOD : POST
+URL : /articles/
+TIMESTAMP : Fri Feb 05 2016 23:19:12 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 59
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/new
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/
+TIMESTAMP : Fri Feb 05 2016 23:19:12 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/new
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : POST
+URL : /articles/All%20the%20light%20we%20cannot%20see
+TIMESTAMP : Fri Feb 05 2016 23:19:14 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 14
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles
+TIMESTAMP : Fri Feb 05 2016 23:19:14 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"ad-wYbMQ8C+/5ePRR8Uhtgu0w"
+  
+"""
+METHOD : GET
+URL : /articles/new
+TIMESTAMP : Fri Feb 05 2016 23:19:18 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"212-LsiTbXMMSDwRzQrfp2Zarw"
+  
+"""
+METHOD : POST
+URL : /articles/
+TIMESTAMP : Fri Feb 05 2016 23:19:32 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 61
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/new
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/
+TIMESTAMP : Fri Feb 05 2016 23:19:32 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/new
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/new
+TIMESTAMP : Fri Feb 05 2016 23:19:34 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"212-LsiTbXMMSDwRzQrfp2Zarw"
+  
+"""
+METHOD : POST
+URL : /articles/
+TIMESTAMP : Fri Feb 05 2016 23:19:47 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 52
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/new
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/
+TIMESTAMP : Fri Feb 05 2016 23:19:47 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/new
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : POST
+URL : /articles/the%20French%20Orphan
+TIMESTAMP : Fri Feb 05 2016 23:19:50 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 14
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles
+TIMESTAMP : Fri Feb 05 2016 23:19:50 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"ad-wYbMQ8C+/5ePRR8Uhtgu0w"
+  
+"""
+METHOD : GET
+URL : /articles/new
+TIMESTAMP : Fri Feb 05 2016 23:19:52 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"212-LsiTbXMMSDwRzQrfp2Zarw"
+  
+"""
+METHOD : POST
+URL : /articles/
+TIMESTAMP : Fri Feb 05 2016 23:20:03 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 55
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/new
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/
+TIMESTAMP : Fri Feb 05 2016 23:20:03 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/new
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Fri Feb 05 2016 23:20:06 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see
+TIMESTAMP : Fri Feb 05 2016 23:20:09 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/
+TIMESTAMP : Fri Feb 05 2016 23:20:36 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/new
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"48e-2QiER2uYkvD/T5RUg1uWgw"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Fri Feb 05 2016 23:20:38 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Fri Feb 05 2016 23:20:39 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Fri Feb 05 2016 23:23:21 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : POST
+URL : /articles/undefined
+TIMESTAMP : Fri Feb 05 2016 23:23:27 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 62
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/dfsgdgdg
+TIMESTAMP : Fri Feb 05 2016 23:23:27 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : POST
+URL : /articles/undefined
+TIMESTAMP : Fri Feb 05 2016 23:25:03 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 66
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/i%20am%20the%20title%20of%20your%20book
+TIMESTAMP : Fri Feb 05 2016 23:25:03 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/i%20am%20the%20title%20of%20your%20book
+TIMESTAMP : Fri Feb 05 2016 23:25:45 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : POST
+URL : /articles/undefined
+TIMESTAMP : Fri Feb 05 2016 23:25:51 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 66
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/i%20am%20the%20title%20of%20your%20book
+TIMESTAMP : Fri Feb 05 2016 23:25:51 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Fri Feb 05 2016 23:26:19 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Fri Feb 05 2016 23:26:20 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : POST
+URL : /articles/undefined
+TIMESTAMP : Fri Feb 05 2016 23:26:23 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 63
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/undefined
+TIMESTAMP : Fri Feb 05 2016 23:26:23 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Fri Feb 05 2016 23:26:27 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Fri Feb 05 2016 23:32:41 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : GET
+URL : /articles/
+TIMESTAMP : Fri Feb 05 2016 23:32:45 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/new
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"48e-2QiER2uYkvD/T5RUg1uWgw"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see
+TIMESTAMP : Fri Feb 05 2016 23:32:46 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"135-Y910vX3z4H8lxLeReKwz6g"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see
+TIMESTAMP : Fri Feb 05 2016 23:33:06 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see
+TIMESTAMP : Fri Feb 05 2016 23:33:51 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"135-Y910vX3z4H8lxLeReKwz6g"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Fri Feb 05 2016 23:33:55 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see
+TIMESTAMP : Fri Feb 05 2016 23:34:04 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"135-Y910vX3z4H8lxLeReKwz6g"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Fri Feb 05 2016 23:34:08 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : POST
+URL : /articles/All%20the%20small%20things
+TIMESTAMP : Fri Feb 05 2016 23:34:11 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 14
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles
+TIMESTAMP : Fri Feb 05 2016 23:34:11 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"2ab-jChVCTVjjlA+YyzP1zuyrQ"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Fri Feb 05 2016 23:35:09 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Fri Feb 05 2016 23:35:53 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : GET
+URL : /articles
+TIMESTAMP : Fri Feb 05 2016 23:35:56 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"2ab-jChVCTVjjlA+YyzP1zuyrQ"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Fri Feb 05 2016 23:35:58 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see
+TIMESTAMP : Fri Feb 05 2016 23:36:02 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"135-Y910vX3z4H8lxLeReKwz6g"
+  
+"""
+METHOD : GET
+URL : /articles
+TIMESTAMP : Fri Feb 05 2016 23:43:22 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"2ab-jChVCTVjjlA+YyzP1zuyrQ"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see
+TIMESTAMP : Fri Feb 05 2016 23:43:24 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"135-Y910vX3z4H8lxLeReKwz6g"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Fri Feb 05 2016 23:43:27 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Fri Feb 05 2016 23:43:29 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : GET
+URL : /articles/new
+TIMESTAMP : Fri Feb 05 2016 23:43:34 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"212-LsiTbXMMSDwRzQrfp2Zarw"
+  
+"""
+METHOD : POST
+URL : /articles/
+TIMESTAMP : Fri Feb 05 2016 23:43:44 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 34
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/new
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/
+TIMESTAMP : Fri Feb 05 2016 23:43:44 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/new
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/boredom
+TIMESTAMP : Fri Feb 05 2016 23:43:47 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/?
+TIMESTAMP : Fri Feb 05 2016 23:43:49 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/boredom
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"2ab-jChVCTVjjlA+YyzP1zuyrQ"
+  
+"""
+METHOD : GET
+URL : /articles/boredom/edit?_method=PUT
+TIMESTAMP : Fri Feb 05 2016 23:43:50 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /products
+TIMESTAMP : Fri Feb 05 2016 23:45:09 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"730-FgmAExR3++XNQ664bfHTNg"
+  
+"""
+METHOD : GET
+URL : /products/56b5871e52e877348b0de326/edit?
+TIMESTAMP : Fri Feb 05 2016 23:45:12 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/products
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"255-CSuzg+Ob/2DtYJFxnRVa6g"
+  
+"""
+METHOD : GET
+URL : /articles
+TIMESTAMP : Fri Feb 05 2016 23:46:23 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"2ab-jChVCTVjjlA+YyzP1zuyrQ"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Fri Feb 05 2016 23:46:25 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Fri Feb 05 2016 23:46:46 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles
+TIMESTAMP : Fri Feb 05 2016 23:46:52 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"452-UIjff4vUpEQ8r+bIW+EwWA"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Fri Feb 05 2016 23:46:55 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : GET
+URL : /articles
+TIMESTAMP : Fri Feb 05 2016 23:47:16 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"452-UIjff4vUpEQ8r+bIW+EwWA"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Fri Feb 05 2016 23:47:18 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Fri Feb 05 2016 23:48:16 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : GET
+URL : /articles/new
+TIMESTAMP : Fri Feb 05 2016 23:49:37 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"212-LsiTbXMMSDwRzQrfp2Zarw"
+  
+"""
+METHOD : POST
+URL : /articles/
+TIMESTAMP : Fri Feb 05 2016 23:49:43 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 36
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/new
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/
+TIMESTAMP : Fri Feb 05 2016 23:49:43 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/new
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Fri Feb 05 2016 23:51:04 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/
+TIMESTAMP : Fri Feb 05 2016 23:51:37 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/new
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"5fb-X0hB1TjgkqfEtrLq24r+gQ"
+  
+"""
+METHOD : GET
+URL : /articles/testing/edit?_method=PUT
+TIMESTAMP : Fri Feb 05 2016 23:51:45 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Fri Feb 05 2016 23:52:27 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Fri Feb 05 2016 23:52:58 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see
+TIMESTAMP : Fri Feb 05 2016 23:53:03 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"135-Y910vX3z4H8lxLeReKwz6g"
+  
+"""
+METHOD : GET
+URL : /articles/?
+TIMESTAMP : Fri Feb 05 2016 23:53:07 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"452-UIjff4vUpEQ8r+bIW+EwWA"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Fri Feb 05 2016 23:53:09 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : POST
+URL : /articles/undefined
+TIMESTAMP : Fri Feb 05 2016 23:53:26 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 75
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Fri Feb 05 2016 23:55:17 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : GET
+URL : /articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+TIMESTAMP : Fri Feb 05 2016 23:55:20 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  referer : http://localhost:3330/articles/?
+  accept-encoding : gzip, deflate, sdch
+  accept-language : en-US,en;q=0.8
+  if-none-match : W/"24f-bJ9UfGk36LBKNZ2JxUp6wg"
+  
+"""
+METHOD : POST
+URL : /articles/undefined
+TIMESTAMP : Fri Feb 05 2016 23:55:22 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 63
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""
+METHOD : POST
+URL : /articles/undefined
+TIMESTAMP : Fri Feb 05 2016 23:55:51 GMT-1000 (HST)
+HEADERS : """
+  host : localhost:3330
+  connection : keep-alive
+  content-length : 63
+  cache-control : max-age=0
+  accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  origin : http://localhost:3330
+  upgrade-insecure-requests : 1
+  user-agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36
+  content-type : application/x-www-form-urlencoded
+  referer : http://localhost:3330/articles/All%20the%20light%20we%20cannot%20see/edit?_method=PUT
+  accept-encoding : gzip, deflate
+  accept-language : en-US,en;q=0.8
+  
+"""

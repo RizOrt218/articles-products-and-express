@@ -48,30 +48,31 @@ router.use(function(req, res, next) {
 
 // end middleware
 router.route('/')
-  .get(function(req, res) {
+  .get(function (req, res) {
     Products.all()
-    .then(function(data){
+    .then(function (data){
       res.render('products/index', {
       products: data
     });
    })
-    .catch(function(err){
+    .catch(function (err) {
       res.send(err);
     });
   })
   .post(function (req, res) {
+    console.log("inventory", req.body);
     Products.add(req.body)
-    .then(function(data) {
-      console.log(data);
+    .then(function (data) {
+      console.log (data);
       res.redirect('/products/');
     })
-    .catch(function(err) {
+    .catch(function (err) {
       res.send(err);
     });
   });
 
 router.route('/new')
-  .get(function(req, res) {
+  .get(function (req, res) {
     res.render('products/new');
   });
 
@@ -79,15 +80,15 @@ router.route('/new')
 //this renders page where it gives you option
 //to input different values of the same id
 router.route('/:id/edit')
-  .get(function(req, res) {
+  .get(function (req, res) {
     Products.getById(req.params.id)
-    .then(function(data) {
+    .then(function (data) {
       console.log(data);
       res.render('products/edit', {
-        product:data[0]
+        product:data
       });
     })
-    .catch(function(err) {
+    .catch(function (err) {
       res.send(err);
     });
     // Products.editById(req.params.id)
@@ -103,21 +104,22 @@ router.route('/:id/edit')
 
 
 router.route('/:id')
-  .get(function(req, res) {
+  .get(function (req, res) {
+    console.log("product id", req.params.id);
     Products.getById(req.params.id)
-    .then(function(data){
+    .then(function (data) {
       console.log(data, 'hello');
       res.render('products/single', {
-        item: data
+        product: data
       });
     })
-    .catch(function(err) {
+    .catch(function (err) {
       res.send(err);
     });
   })
   .put(function (req, res) {
     Products.editById( req.params.id, req.body )
-      .then(function(data) {
+      .then(function (data) {
         console.log(data, 'hi');
         // res.get('/products/');
         res.render('products/single', {
